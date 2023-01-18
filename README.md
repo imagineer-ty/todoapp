@@ -1,3 +1,7 @@
+Simple to-do list application 
+First time with React, using as playground to test features I think are cool.
+Needed info for me below:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
